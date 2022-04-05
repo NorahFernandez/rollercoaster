@@ -27,10 +27,18 @@
   <script src="js/plugins.js"></script>
   <script src="js/main.js"></script>
     <header>  
-
+      <img src="img.png" src="Logo">
     </header>
     <main>  
-
+        <nav> 
+            <a href="index.php">Home</a>
+            <a href="bedrijfsite">Bedrijf</a>
+            <a href="contact.php">Contact</a>
+            <a href="car.php">Karretjes</a>
+            <a href="soon.php">Soon</a>
+            <a href="soon.php">Soon</a>
+            <a href="soon.php">Soon</a>
+        </nav>
     </main>
     <footer>  
 
