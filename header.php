@@ -26,19 +26,24 @@
   <script src="js/vendor/modernizr-3.11.2.min.js"></script>
   <script src="js/plugins.js"></script>
   <script src="js/main.js"></script>
-    <header>  
-      <img src="img.png" src="Logo">
+    <header>
+      <div class="header"> 
+          <img class="logo" src="img/logo.png">
+        <div class="headerbox">
+            <h1 class="Rollercoaster"> Rollercoaster Pro</h1>
+          <nav> 
+            <div class="nav">
+                <a class="navcolor" href="index.php">Home</a>
+                <a class="navcolor" href="bedrijfsite">Bedrijf</a>
+                <a class="navcolor" href="contact.php">Contact</a>
+                <a class="navcolor" href="car.php">Karretjes</a>
+                <a class="navcolor" href="materiaal.php">Materiaal</a>
+            </nav>
+          <div>
+        </div>
+      </div> 
     </header>
-    <main>  
-        <nav> 
-            <a href="index.php">Home</a>
-            <a href="bedrijfsite">Bedrijf</a>
-            <a href="contact.php">Contact</a>
-            <a href="car.php">Karretjes</a>
-            <a href="soon.php">Soon</a>
-            <a href="soon.php">Soon</a>
-            <a href="soon.php">Soon</a>
-        </nav>
+    <main> 
     </main>
     <footer>  
 
