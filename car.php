@@ -27,7 +27,7 @@
   <script src="js/plugins.js"></script>
   <script src="js/main.js"></script>
     <header>  
-
+      <?php require_once'header.php' ?>
     </header>
     <main>  
 
