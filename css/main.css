@@ -134,8 +134,21 @@ header{
   width: 100px;
 }
 
+/*=========Footer=========*/
 
+a{
+  color:black;
+}
 
+.footer{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.links{
+  margin-left: 50px;
+}
 
 /* ==========================================================================
    Helper classes

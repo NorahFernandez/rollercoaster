@@ -32,8 +32,17 @@
     <main>  
 
     </main>
-    <footer>  
-
+    <footer>
+    <div class="footer">
+      <p>&copy; Rollercoaster 2022</p>
+      <div class="links">
+          <a href="index.php">Home |</a>
+          <a href="bedrijfsite">Bedrijf |</a>
+          <a href="contact.php">Contact |</a>
+          <a href="car.php">Karretjes |</a>
+          <a href="materiaal.php">Materiaal |</a>
+      </div>
+    </div>  
     </footer>
   </body>
 
