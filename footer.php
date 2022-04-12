@@ -23,19 +23,28 @@
 </head>
 
 <body>
-
-  <!-- Add your site or application content here -->
-  <p>Hello world! This is HTML5 Boilerplate.</p>
   <script src="js/vendor/modernizr-3.11.2.min.js"></script>
   <script src="js/plugins.js"></script>
   <script src="js/main.js"></script>
+    <header>  
 
-  <!-- Google Analytics: change UA-XXXXX-Y to be your site's ID. -->
-  <script>
-    window.ga = function () { ga.q.push(arguments) }; ga.q = []; ga.l = +new Date;
-    ga('create', 'UA-XXXXX-Y', 'auto'); ga('set', 'anonymizeIp', true); ga('set', 'transport', 'beacon'); ga('send', 'pageview')
-  </script>
-  <script src="https://www.google-analytics.com/analytics.js" async></script>
-</body>
+    </header>
+    <main>  
+
+    </main>
+    <footer>
+    <div class="footer">
+      <p>&copy; Rollercoaster 2022</p>
+      <div class="links">
+          <a href="index.php">Home |</a>
+          <a href="bedrijfsite">Bedrijf |</a>
+          <a href="contact.php">Contact |</a>
+          <a href="car.php">Karretjes |</a>
+          <a href="materiaal.php">Materiaal |</a>
+      </div>
+    </div>  
+    </footer>
+  </body>
 
 </html>
+
