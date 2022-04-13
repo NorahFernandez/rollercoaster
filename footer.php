@@ -42,6 +42,10 @@
           <a href="car.php">Karretjes |</a>
           <a href="materiaal.php">Materiaal |</a>
       </div>
+      <div class="social">
+        <a href="https://www.instagram.com/rollercoaster">Instagram |</a>
+        <a href="https://www.facebook.com/rollercoaster"> Facebook</a>
+      </div>
     </div>  
     </footer>
   </body>
