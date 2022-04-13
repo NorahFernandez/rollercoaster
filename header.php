@@ -39,6 +39,9 @@
                 <a class="navcolor" href="car.php">Karretjes</a>
                 <a class="navcolor" href="materiaal.php">Materiaal</a>
             </nav>
+            <div class="social">
+              <a href="https://www.instagram.com/rollercoaster"><img src="img.instagram.png"></a>
+            </div>
           <div>
         </div>
       </div> 
