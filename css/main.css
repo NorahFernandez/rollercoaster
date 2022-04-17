@@ -151,6 +151,24 @@ a{
 .links{
   margin-left: 50px;
 }
+
+/*=========Header=========*/
+
+.info-material{
+  margin-top: 15px;
+  margin-bottom: 15px;
+  display: flex;
+}
+
+.plaatjematerial{
+  width: 300px;
+  margin-right: 15px;
+}
+
+.materialtext{
+  width: 600px;
+}
+
 /* ==========================================================================
    Helper classes
    ========================================================================== */
