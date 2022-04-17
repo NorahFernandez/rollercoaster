@@ -29,11 +29,16 @@
     <header>  
       <?php require_once'header.php' ?>
     </header>
-    <main>  
-
+    <main>
+      <div class="contact">
+        <h1>Informatie over ons:</h1>  
+        <h2>Telefoonnummer: 0631493923</h2>
+        <h2>Email: rollercoaster@info.com</h2>
+        <img src="img/logo.png" width="100px" alt="logo">
+      </div>
     </main>
     <footer>  
-
+      <?php require_once'footer.php'?>
     </footer>
   </body>
 
