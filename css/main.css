@@ -347,3 +347,9 @@ a{
   text-align: center;
   margin: 10px 0;
 }
+
+.car{
+  text-align: center;
+  margin: 0 auto;
+  width: 968px;
+}
